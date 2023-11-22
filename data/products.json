@@ -1,0 +1,116 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Nike Air Men’s Hoodie -  Imported Hoodie Red",
+      "price": "9,499",
+      "url": "./images/product-1.png",
+      "category": "Dresses"
+    },
+    {
+      "id": 2,
+      "title": "Armani Frok Ladies -  Imported Fork Blue",
+      "price": "15,499",
+      "url": "./images/product-2.png",
+      "category": "Dresses"
+    },
+    {
+      "id": 3,
+      "title": "boAt Wave Beat with 600+ Watch Faces,",
+      "price": "6,499",
+      "url": "./images/product-3.png",
+      "category": "Jewellery"
+    },
+    {
+      "id": 4,
+      "title": "Full Rim Square Computer Glass For Men & Women",
+      "price": "799",
+      "url": "./images/product-4.png",
+      "category": "Jewellery"
+    },
+    {
+      "id": 5,
+      "title": "Men Regular Fit Printed Spread Collar Casual Shirt",
+      "price": "1,499",
+      "url": "./images/product-5.png",
+      "category": "Dresses"
+    },
+    {
+      "id": 6,
+      "title": "ASUS TUF-GAMING-H3 Wired Gaming Headset",
+      "price": "3,499",
+      "url": "./images/product-6.png",
+      "category": "Accessories"
+    },
+    {
+      "id": 7,
+      "title": "Women White Shoulder Bag - Mini",
+      "price": "3,499",
+      "url": "./images/product-7.png",
+      "category": "Footwear"
+    },
+    {
+      "id": 8,
+      "title": "ZOOM SUPERFLY 9 ACADEMY FG/MG Football Shoes For Men",
+      "price": "7,499",
+      "url": "./images/product-8.png",
+      "category": "Footwear"
+    },
+    {
+      "id": 9,
+      "title": "Allen Solly Women Black Heels Sandal",
+      "price": "2,999",
+      "url": "./images/product-9.png",
+      "category": "Footwear"
+    },
+    {
+      "id": 10,
+      "title": "Razer Death Adder Essential Wired Optical Gaming Mouse",
+      "price": "1,999",
+      "url": "./images/product-10.png",
+      "category": "Accessories"
+    },
+    {
+      "id": 11,
+      "title": "APPLE Airpods Pro 2nd Generation Bluetooth Headset ",
+      "price": "24,999",
+      "url": "./images/product-11.png",
+      "category": "Accessories"
+    },
+    {
+      "id": 12,
+      "title": "APPLE Watch Ultra GPS + Cellular - ECG App, Temp sensor..",
+      "price": "74,999",
+      "url": "./images/product-12.png",
+      "category": "Accessories"
+    },
+    {
+      "id": 13,
+      "title": "APPLE 2022 MacBook AIR M2 (8 GB/256 GB SSD",
+      "price": "1,19,999",
+      "url": "./images/product-13.png",
+      "category": "Accessories"
+    },
+    {
+      "id": 14,
+      "title": "APPLE Watch Series 8 GPS with ECG app",
+      "price": "32,999",
+      "url": "./images/product-14.png",
+      "category": "Accessories"
+    },
+    {
+      "id": 15,
+      "title": "Xbox Elite Series 2 Wireless Controller Joystick ",
+      "price": "18,499",
+      "url": "./images/product-15.png",
+      "category": "Accessories"
+    },
+    {
+      "id": 16,
+      "title": "APPLE iPhone 12 Pro Max (Pacific Blue, 128 GB)",
+      "price": "95,999",
+      "url": "./images/product-16.png",
+      "category": "Accessories"
+    }
+  ]
+}
